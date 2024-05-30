@@ -12,13 +12,14 @@
 - **DataStax Astra DB**:  Leveraged as a cloud-native, scalable Database-as-a-Service, built on the robust foundation of Apache Cassandra, ensuring reliable data storage and retrieval.
 - **OpenAI API**: Integrated to access cutting-edge AI models developed by OpenAI, empowering advanced natural language processing capabilities within the application.
   
-<h2>Features</h2>
-- **Issue Triage**: Automatically categorize and prioritize issues based on content and urgency.
-- **Pull Request Analysis**: Analyze pull requests for code quality, potential bugs, and adherence to best practices.
-- **Collaboration Insights**: Provide insights into collaboration patterns, such as response times and engagement levels.
-- **Code Review Assistance**: Offer suggestions and automate routine aspects of code reviews to expedite the process.
-- **Workflow Automation**: Automate repetitive tasks, such as labeling, assigning, and closing issues.
-- **Natural Language Interaction**:  Interact with the AI assistant using natural language commands and queries.
+## Features
+- **Issue Triage**: Automatically categorizes and prioritizes issues based on content and urgency.
+- **Pull Request Analysis**: Analyzes pull requests for code quality, potential bugs, and adherence to best practices.
+- **Collaboration Insights**: Provides insights into collaboration patterns, such as response times and engagement levels.
+- **Code Review Assistance**: Offers suggestions and automates routine aspects of code reviews to expedite the process.
+- **Workflow Automation**: Automates repetitive tasks, such as labeling, assigning, and closing issues.
+- **Natural Language Interaction**: Interacts with the AI assistant using natural language commands and queries.
+
 
 <h2>Installation</h2>
 To install the GitHub AI Assistant Agent, follow these steps:
