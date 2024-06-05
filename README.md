@@ -1,4 +1,4 @@
-<h1> Advanced GitHub AI Assistant Agent </h1> 
+<h1> Advanced GitHub AI Assistant and Code Generator Agent </h1> 
 
 <h2>Introduction</h2>
 <p>
